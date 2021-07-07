@@ -1,2 +1,4 @@
 # CSharp_SimpleTextEditor
- Simples editor de texto com funções para alinhamento e estilo.a
+
+Este projeto foi utilizado como aprendizado C# Forms.
+Editor de texto simples, com funcionalidades de alinhamento do texto, estilo e até impressão do mesmo.
